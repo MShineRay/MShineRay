@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 hi, i'm MShineRay
 
 **languages and tools:**  
-
+<!--vue-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/2e1efd50b61f26c56e82929d735dce115937350e280abac98641c79d765da27c/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"></code>
@@ -29,6 +29,8 @@ hi, i'm MShineRay
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<!--pnpm-->
+<code><img height="20" src="https://camo.githubusercontent.com/49b19604911bc6ee19d5e805bfcc525af7fdd3573f6449b1bd14454cc5aa48bc/68747470733a2f2f692e696d6775722e636f6d2f716c57316545472e706e67"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/66fb417bb4152304eede584506848c6cc0b437e17b55b6502a2391ac1006cfc0/68747470733a2f2f726f6c6c75706a732e6f72672f726f6c6c75702d6c6f676f2e737667"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2565403?s=48&v=4"></code>
 <code><img height="20" src="https://github.com/apache/echarts/raw/master/asset/logo.png?raw=true"></code>
